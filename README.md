@@ -4,3 +4,9 @@ This is a case designed for use with the cheesecake pcb by https://github.com/So
 It is designed to fit on a standard vive ultimate tracker bracket.
 
 There is likely something wrong with the design as i haven't had time to test it yet, will do so when i am able to.
+
+Short animation showing assembly sequence.
+
+https://github.com/user-attachments/assets/4c1cadbe-4fa4-4a83-914d-44106de3760d
+
+
