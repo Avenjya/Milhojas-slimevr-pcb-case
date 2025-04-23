@@ -1,6 +1,6 @@
 Milhojas pcb case.
 
-Have found that the files got exported wrong but currently moving so can't fix for now.
+Fixed export problem.
 
 This is a case designed for use with the cheesecake pcb by https://github.com/Sorakage033 and uses a 804040 battery.
 It is designed to fit on a standard vive ultimate tracker bracket.
